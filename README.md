@@ -49,5 +49,5 @@ pip install nonebot_plugin_ygo_trade
 ## 使用
 nonebot.load_plugin('nonebot_plugin_ygo_trade')
 
-## 觉得好用帮忙给个star，谢谢大家了，顺便在这里求个职，现在找工作太难了，希望能找份java的工作，有资源的老哥欢迎联系我的邮箱467241156@qq.com。
+## 觉得好用帮忙给个star，谢谢大家了。
 <img width="615" alt="image" src="https://raw.githubusercontent.com/Kaguyaya/pitures/master/Blogs7bf40ad162d9f2d320957a2fecec8a136227cc6e.gif">
